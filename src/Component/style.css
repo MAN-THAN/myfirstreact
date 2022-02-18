@@ -1,0 +1,40 @@
+.box{
+    background-image: linear-gradient(lightblue,salmon, white);
+    height: 100vh;
+
+}
+.heading{
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 25%;
+    text-shadow: 1px 4px seagreen;
+}
+#bt1{
+    width: 250px;
+    height: 60px;
+    border-radius: 40px;
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    border: 2px solid black;
+    background-color: saddlebrown;
+    cursor: pointer;
+}
+#bt2{
+    width: 500px;
+    height: 250px;
+    border-radius: 40px;
+    position: absolute;
+    top: 55%;
+    left: 8%;
+    border: 2px solid black;
+    background-color: lightcoral;
+    cursor: pointer;
+}
+#txt1{
+    font-size: x-large;
+}
+#para2{
+    font-size: large;
+}

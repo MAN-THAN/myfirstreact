@@ -1,0 +1,36 @@
+
+.heading{
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 25%;
+    text-shadow: 1px 4px seagreen;
+}
+#bt3{
+    width: 250px;
+    height: 60px;
+    border-radius: 40px;
+    position: absolute;
+    top: 30%;
+    right: 27%;
+    border: 2px solid black;
+    background-color: saddlebrown;
+    cursor: pointer;
+}
+#bt4{
+    width: 500px;
+    height: 250px;
+    border-radius: 40px;
+    position: absolute;
+    top: 55%;
+    right: 10%;
+    border: 2px solid black;
+    background-color: lightcoral;
+    cursor: pointer;
+}
+#txt1{
+    font-size: x-large;
+}
+#para1{
+    font-size: large;
+}
